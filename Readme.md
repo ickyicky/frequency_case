@@ -24,12 +24,22 @@ There is plenty of space to use less/more gasket area, more gasket space yields 
 
 ## Required hardware
 
+From KeebIO you should purchase:
+- KeebIO Quefrency rev. 3 pcbs (without 65/XT clusters)
 - KeebIO rubber feet kit
+
+Or order your own pcbs and rubber feet, however case was not tested with opensource rev.1 pcb using trs cable.
+
+For case you need:
 - brass inserts: M3x3 x 12
 - screws: M3x5mm x 8
 - screws: M3x12mm x 8
 - screws: M3x25mm x 8
+
+Additionally, for full build you will need:
 - some gaskets
+- usb c to usb c cable to connect splits, usb c cable to connect keyboard
+- switches, stabs, keycaps of your liking
 
 ## WKL top
 
