@@ -2,6 +2,10 @@
 
 Long, elegant, simple. The case fits latest quefrency pcb (rev. 3) in 60%.
 
+[![](https://github.com/ickyicky/frequency_case/blob/main/media/built.png?raw=true)](https://github.com/ickyicky/frequency_case)
+
+[![](https://github.com/ickyicky/frequency_case/blob/main/media/back.png?raw=true)](https://github.com/ickyicky/frequency_case)
+
 ## Plate and case files
 
 In `left` and `right` folder there are 3d models and fusion360 source files for both sides of the case. Each folder contains:
@@ -30,4 +34,5 @@ There is plenty of space to use less/more gasket area, more gasket space yields 
 ## WKL top
 
 WKL top uses 1.25U blockers on second furthest 1.25U keys from left and right. This is only cause there's no 1.5U 1U 1.5U symmetrical option :(
-# frequency_case
+
+[![](https://github.com/ickyicky/frequency_case/blob/main/media/wkl.png?raw=true)](https://github.com/ickyicky/frequency_case)
